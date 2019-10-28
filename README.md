@@ -1,2 +1,3 @@
 # hello-world
-First repository created on the consulting class
+
+This is the Github file created on the consulting class. 
